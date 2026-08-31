@@ -4,6 +4,10 @@
 
 ---
 
+![Assembly](Images/Assembly.png)
+
+---
+
 ## what even is this
 
 its a rc boat i designed in onshape. basically a 3d printed hull that floats and has space for electronics. nothing too crazy but it looks kinda cool ngl
@@ -13,7 +17,21 @@ its a rc boat i designed in onshape. basically a 3d printed hull that floats and
 ## what i got so far
 
 - hull design with curved front and hollow inside (0.25in walls)
+  
+---
+
+![Hull](Images/Hull.png)
+
+---
+
 - lid that fits on top with a lil overhang so water doesnt get in
+
+---
+
+![Lid](Images/Lid.png)
+
+---
+
 - motor mounts and wire channels inside
 
 took me like a week to figure out onshape but we got there eventually lol
@@ -71,6 +89,10 @@ also gotta waterproof everything with silicone so it doesnt fry
 > **3D printing cost:** $3.17 × NPR 150 = **NPR 475.50 ≈ NPR 476**.
 >
 > **Printing estimate:** 158.75 g PLA filament and approximately **17 hours 18 minutes** of printing time, based on the PrusaSlicer estimate.
+
+---
+
+![Slicer](Images/Slicer.png)
 
 ---
 
