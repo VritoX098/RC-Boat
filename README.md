@@ -8,6 +8,8 @@
 
 ---
 
+Onshape link:  https://cad.onshape.com/documents/da58f6eb132e45c02884e7ef/w/f0726f7543996c3d286e1e4b/e/8387c688005734922322e3be?renderMode=0&uiState=6a95796252a2bebfd142f6c4
+
 ## what even is this
 
 its a rc boat i designed in onshape. basically a 3d printed hull that floats and has space for electronics. nothing too crazy but it looks kinda cool ngl
