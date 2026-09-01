@@ -60,7 +60,7 @@ also gotta waterproof everything with silicone so it doesnt fry
 
 | # | **[Component](ca://s?q=RC_boat_component_details)** | **Specification / Product** | **Qty.** | **Price (NPR)** | **Price (USD)** | **Link** |
 |---|---|---|---:|---:|---:|---|
-| 1 | **[Microcontroller](ca://s?q=Arduino_UNO_R3_for_RC_boat)** | Arduino UNO R3 | 1 | 1,198 | $7.99 | [Daraz UNO R3](https://www.daraz.com.np/products/arduino-uno-r3-i296295940.html) |
+| 1 | **[3D Printing](ca://s?q=3D_printing_cost_RC_boat)** | PLA Filament — 158.75 g; estimated print time 17h 18m | 1 | **476** | **$3.17** | — |
 | 2 | **[RC Transmitter + Receiver](ca://s?q=FlySky_FS-i6_for_RC_boat)** | FlySky FS-i6 2.4GHz 6CH + FS-iA6B Receiver | 1 Set | 9,000 | $60.00 | [Daraz FS-i6](https://www.daraz.com.np/products/flysky-fs-i6-24g-6ch-ppm-rc-transmitter-with-fs-ia6b-receiver-i133902948.html) |
 | 3 | **[Brushless Motor](ca://s?q=A2212_1000KV_motor_for_RC_boat)** | A2212 1000KV Brushless Motor | 1 | 900 | $6.00 | [Daraz A2212](https://www.daraz.com.np/products/a221213t-1000-kv-brushless-motor-i125550186.html) |
 | 4 | **[Motor ESC](ca://s?q=30A_ESC_for_RC_boat)** | 30A Brushless ESC, 2–3S | 1 | 999 | $6.66 | [Daraz ESC 30A](https://www.daraz.com.np/products/30a-brushless-esc-for-rc-fixed-wing-plane-helicopter-2-3s-i292619586.html) |
@@ -75,7 +75,7 @@ also gotta waterproof everything with silicone so it doesnt fry
 | 13 | **[Fuse + Holder](ca://s?q=RC_boat_inline_fuse)** | 20–30A Inline Fuse | 1 | 200 | $1.33 | [Daraz Fuse](https://www.daraz.com.np/catalog/?q=30A%20inline%20fuse%20holder) |
 | 14 | **[Waterproof Enclosure](ca://s?q=RC_boat_waterproof_enclosure)** | Waterproof Electronics Box | 1 | 500 | $3.33 | [Daraz Enclosure](https://www.daraz.com.np/catalog/?q=waterproof%20electronics%20box) |
 | 15 | **[Boat Hull](ca://s?q=RC_boat_hull)** | 3D-Printed RC Boat Hull | 1 | 2,000 | $13.33 | [Daraz Hull](https://www.daraz.com.np/catalog/?q=RC%20boat%20hull) |
-| 16 | **[3D Printing](ca://s?q=3D_printing_cost_RC_boat)** | PLA Filament — 158.75 g; estimated print time 17h 18m | 1 | **476** | **$3.17** | — |
+
 
 ---
 
