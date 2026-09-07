@@ -4,7 +4,18 @@
 
 ---
 
-![Assembly](Images/Assembly.png)
+### Open vs. Closed Assembly
+
+| Assembly Open | Assembly Closed |
+| :---: | :---: |
+| ![Assembly Open](Images/AssemblyOpen.png) | ![Assembly Closed](Images/AssemblyClosed.png) |
+
+### Assembly V1 vs. Assembly V2
+
+| Assembly V1 | Assembly V2 |
+| :---: | :---: |
+| ![Assembly](Images/Assembly.png) | ![Assembly V2](Images/Assembly%20V2.png) |
+
 
 ---
 
