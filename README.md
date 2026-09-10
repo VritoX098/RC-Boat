@@ -8,7 +8,7 @@
 
 | Assembly Open | Assembly Closed |
 | :---: | :---: |
-| ![Assembly Open](Images/AssemblyOpen.png) | ![Assembly Closed](Images/AssemblyClosed.png) |
+| ![Assembly Open](Images/AssemblyOpenV3.png) | ![Assembly Closed](Images/AssemblyClosedV3.png) |
 
 ### Assembly V1 vs. Assembly V2
 
