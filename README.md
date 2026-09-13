@@ -51,16 +51,13 @@ took me like a week to figure out onshape but we got there eventually lol
 
 ---
 
-## what still needs to happen
+## Circuit 
 
-gotta actually buy parts and make it move:
-- arduino or something similar
-- motors + propellers
-- esc 
-- lipo battery 
-- receiver for remote control
+Image:  
 
-also gotta waterproof everything with silicone so it doesnt fry
+![Circuit](Images/circuit_image.png)
+
+Link:  https://app.cirkitdesigner.com/project/46d53944-e25d-4feb-a768-c2e17c508536
 
 ---
 
