@@ -68,21 +68,20 @@ Link:  https://app.cirkitdesigner.com/project/46d53944-e25d-4feb-a768-c2e17c5085
 
 | # | Component | Specification / Product | Qty. | Price (NPR) | Price (USD) | Buy Link |
 |---|---|---|---:|---:|---:|---|
-| 1 | **RC Transmitter + Receiver** | FlySky FS-i6 TX + RX | 1 set | 9,000 | $60.00 | [Buy on Daraz](https://www.daraz.com.np/products/flysky-fs-i6-remote-for-quadcopter-6-channels-for-multiple-control-option-i488181181.html) |
-| 2 | **LiPo Battery** | 2200mAh 3S 11.1V LiPo | 1 | 3,500 | $23.16 | [Buy on Daraz](https://www.daraz.com.np/products/2200mah-111v-35c-3s-zop-power-lipo-battery-i130076598.html?spm=a2a0e.store_keyword.list.21.ae781939ZRWD4P) |
-| 3 | **Brushless Motor** | 1000KV A2212 Brushless Motor | 1 | 900 | $6.00 | [Buy on Daraz](https://www.daraz.com.np/tag/a2212/) |
-| 4 | **Brushless ESC** | 30A Brushless ESC | 1 | 999 | $6.66 | [Buy on Daraz](https://www.daraz.com.np/products/30a-brushless-esc-for-rc-fixed-wing-plane-helicopter-2-3s-i292619586.html) |
-| 5 | **Servo Motor** | Metal Gear MG90S Servo | 1 | 415 | $2.77 | [Buy on Daraz](https://www.daraz.com.np/tag/servo-mg/) |
-| 6 | **3D Printing** | PLA filament — 158.75 g, approx. 17h 18m print | 1 | 476 | $3.17 | — |
+| 1 | **LiPo Battery** | 2200mAh 3S 11.1V LiPo | 1 | 3,500 | $23.16 | [Buy on Daraz](https://www.daraz.com.np/products/2200mah-111v-35c-3s-zop-power-lipo-battery-i130076598.html?spm=a2a0e.store_keyword.list.21.ae781939ZRWD4P) |
+| 2 | **Brushless Motor** | 1000KV A2212 Brushless Motor | 1 | 900 | $6.00 | [Buy on Daraz](https://www.daraz.com.np/tag/a2212/) |
+| 3 | **Brushless ESC** | 30A Brushless ESC | 1 | 999 | $6.66 | [Buy on Daraz](https://www.daraz.com.np/products/30a-brushless-esc-for-rc-fixed-wing-plane-helicopter-2-3s-i292619586.html) |
+| 4 | **Servo Motor** | Metal Gear MG90S Servo | 1 | 415 | $2.77 | [Buy on Daraz](https://www.daraz.com.np/tag/servo-mg/) |
+| 5 | **3D Printing** | PLA filament — 158.75 g, approx. 17h 18m print | 1 | 476 | $3.17 | — |
 
 ## 💰 Total Cost
 
 | Category | Amount |
 |---|---:|
-| Components | **NPR 14,200** |
+| Components | **NPR 4,420** |
 | 3D Printing | **NPR 476** |
-| **TOTAL** | **NPR 14,670** |
-| **TOTAL (USD)** | **$97.09** |
+| **TOTAL** | **NPR 4,696** |
+| **TOTAL (USD)** | **$37.09** |
 
 > **Note:** 3D printing cost is calculated from approximately **158.75 g of PLA filament**, with an estimated material cost of **$3.17**.
 ---
